@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "My Chrome Extension"
+  },
+  "appDesc": {
+    "message": "This is my awesome chrome extension!"
+  }
+}
